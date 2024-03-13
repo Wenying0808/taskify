@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskify/static/css/main.d3bdcdc4.css",
+    "main.js": "/taskify/static/js/main.eb550d3d.js",
+    "index.html": "/taskify/index.html",
+    "main.d3bdcdc4.css.map": "/taskify/static/css/main.d3bdcdc4.css.map",
+    "main.eb550d3d.js.map": "/taskify/static/js/main.eb550d3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3bdcdc4.css",
+    "static/js/main.eb550d3d.js"
+  ]
+}

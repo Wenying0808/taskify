@@ -1,0 +1,42 @@
+.todos__single{
+    display:flex;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 16px;
+    background-color: paleturquoise;
+    transition: 0.2s;
+}
+
+.todos__single:hover{
+    box-shadow: 0 0 8px 0.5 rgb(0, 0, 0);
+    transform: scale(1.02);
+}
+
+.drag{
+    background-color: rgb(101, 247, 247);
+}
+
+.todos__single--text{
+    flex: 1;
+    padding: 4px;
+    border: none;
+    font-size: 20px;
+}
+
+.todos__single--text:focus{
+    outline: none;
+}
+
+.icon{
+    margin-left: 8px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+
+
+@media (max-width: 700px){
+
+  
+
+}
